@@ -2,7 +2,7 @@
 
 Docker, Docker Container, Docker Compose, Container Management
 
-#Check your Docker Status
+#<b>Check your Docker Status</b>
 
 docker -v
 
